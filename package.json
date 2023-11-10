@@ -4,7 +4,7 @@
   "description": "This repo contains basic examples for how to integrate Torque with CI/CD tools",
   "main": "startSandbox.js",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "dotenv": "^10.0.0"
   },
   "devDependencies": {},
